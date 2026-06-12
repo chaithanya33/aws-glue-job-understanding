@@ -1,6 +1,6 @@
 # aws-glue-job-understanding
 
-# AWS GLUE : IS A SERVERLESS ETL SERVICE ON AWS PROVIDE INFRA
+# AWS GLUE : IS A SERVERLESS ETL SERVICE ON AWS service
 
 SIMPLE WORDS : IS USED TO EXTRACT DATA , clean/transform it and load it to another place automatically without managing servers
 
